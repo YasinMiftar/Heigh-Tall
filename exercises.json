@@ -1,0 +1,18 @@
+[
+  {"slug":"dead-hang","name":"Dead Hang","seconds":45,"sets":2,"sides":false,"asset":"dead-hang-cutout"},
+  {"slug":"cobra-stretch","name":"Cobra Stretch","seconds":45,"sets":3,"sides":false,"asset":"cobra-stretch"},
+  {"slug":"bird-dog","name":"Bird Dog","seconds":40,"sets":3,"sides":true,"asset":"bird-dog"},
+  {"slug":"glute-bridge","name":"Glute Bridge","seconds":45,"sets":3,"sides":false,"asset":"glute-bridge"},
+  {"slug":"cat-cow","name":"Cat Cow","seconds":40,"sets":3,"sides":false,"asset":"cat-cow"},
+  {"slug":"forward-fold","name":"Forward Fold","seconds":45,"sets":3,"sides":false,"asset":"forward-fold"},
+  {"slug":"deep-squat-hold","name":"Deep Squat Hold","seconds":40,"sets":3,"sides":false,"asset":"deep-squat-hold"},
+  {"slug":"lunge-stretch","name":"Lunge Stretch","seconds":40,"sets":3,"sides":true,"asset":"lunge-stretch"},
+  {"slug":"pike-push-ups","name":"Pike Push Ups","seconds":40,"sets":3,"sides":false,"asset":"pike-push-ups"},
+  {"slug":"inchworm","name":"Inchworm","seconds":45,"sets":3,"sides":false,"asset":"inchworm"},
+  {"slug":"superman-hold","name":"Superman Hold","seconds":40,"sets":3,"sides":false,"asset":"superman-hold"},
+  {"slug":"reverse-plank","name":"Reverse Plank","seconds":40,"sets":3,"sides":false,"asset":"reverse-plank"},
+  {"slug":"side-plank","name":"Side Plank","seconds":40,"sets":3,"sides":true,"asset":"side-plank"},
+  {"slug":"jump-squats","name":"Jump Squats","seconds":30,"sets":3,"sides":false,"asset":"jump-squats"},
+  {"slug":"mountain-climbers","name":"Mountain Climbers","seconds":40,"sets":3,"sides":false,"asset":"mountain-climbers"},
+  {"slug":"wall-angels","name":"Wall Angels","seconds":45,"sets":3,"sides":false,"asset":"wall-angels"}
+]

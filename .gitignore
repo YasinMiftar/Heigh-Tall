@@ -1,0 +1,17 @@
+# Ignore local secrets, credentials, and development files.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+.npmrc
+.netrc
+.openai/
+.netlify/
+.codex/
+.aws/
+node_modules/
